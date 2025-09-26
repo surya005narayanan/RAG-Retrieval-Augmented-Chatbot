@@ -6,7 +6,7 @@ This project demonstrates a Question-Answering (QA) agent that can answer questi
 ## Setup & Usage
 1.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
     ```
 2.  **Set up your Google API key:**
     ```bash
