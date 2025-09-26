@@ -14,7 +14,7 @@ This project demonstrates a Question-Answering (QA) agent that can answer questi
     ```
 3.  **Run the agent:**
     ```bash
-    python main.py
+    python app.py
     ```
 
 ## Business Value
