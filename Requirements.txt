@@ -1,0 +1,6 @@
+langgraph
+langchain
+pandas
+langchain-google-genai
+faiss-cpu
+python-dotenv
